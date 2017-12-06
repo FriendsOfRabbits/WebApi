@@ -668,9 +668,11 @@ namespace FriendsOfRabbits.API.Models.Petfinder {
         /// <remarks/>
         Unknown,
         /// <remarks/>
-        [System.Xml.Serialization.XmlEnumAttribute("Short-haired")]
+        [System.Xml.Serialization.XmlEnumAttribute("Short-Haired")]
         ShortHaired,
-        
+        /// <remarks/>
+        [System.Xml.Serialization.XmlEnumAttribute("Short-haired")]
+        Shorthaired,
         /// <remarks/>
         Affenpinscher,
         

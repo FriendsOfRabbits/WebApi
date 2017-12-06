@@ -726,6 +726,10 @@
     <xs:enumeration value="Lizard"/>
     <xs:enumeration value="Snake"/>
     <xs:enumeration value="Turtle"/>
+    
+    <!-- Added Breeds-->
+    <xs:enumeration value="Short-Haired" />
+    <xs:enumeration value="Short-haired" />
   </xs:restriction>
 </xs:simpleType>
 
